@@ -14,7 +14,7 @@ Enjoy!
 ## Books for DevOps
 | NAME | Hard Copy Link | PDF Copy Link |
 | ---- | -------------- | ------------- |
-| The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Kindle Editionby byGene Kim | [Click Here](https://amzn.eu/d/1nm37vv | [Click Here](https://www.pdfdrive.com/download.pdf?id=194639026&h=e34e4802ae102620effb800e014d679c&u=cache&ext=pdf) |
+| The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Kindle Editionby byGene Kim | [Click Here](https://amzn.eu/d/1nm37vv) | [Click Here](https://www.pdfdrive.com/download.pdf?id=194639026&h=e34e4802ae102620effb800e014d679c&u=cache&ext=pdf) |
 | Cloud Native DevOps with Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud, Second Edition (Grayscale Indian Edition) Paperback – 17 April 2022 by Justin Domingus | [Click Here](https://amzn.eu/d/0U1Qtse) | [Click Here](https://www.pdfdrive.com/download.pdf?id=187562166&h=899d6a6976affcc6de962d140350436b&u=cache&ext=pdf) |
 | The Phoenix Project: A Novel about It, Devops, and Helping Your Business Win  by Gene Kim | [Click Here](https://amzn.eu/d/4jf0EBw) | [Click Here](https://www.pdfdrive.com/download.pdf?id=177508710&h=4814cfff99c98dcaee1b7589bbda244b&u=cache&ext=pdf) |
 | Ansible for DevOps:Server and configuration management for humans Kindle Edition by Jeff Geerling | [Click Here](https://amzn.eu/d/gmzMDZo) | [Click Here](https://www.pdfdrive.com/download.pdf?id=54785552&h=be966de135833f97659cacf686b1bec6&u=cache&ext=pdf) |
