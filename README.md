@@ -24,12 +24,12 @@ Enjoy!
 ## YouTube Channels for Android Dev
 | Channel Name | Description |
 | ------------ | ----------- |
-| [Kotlin Tutorial](https://youtu.be/I6rkwJed-HY) | Kotlin Tutorial for Beginners, Full Course |
-| [Android Development Tutorial](https://youtu.be/mXjZQX3UzOs) | Android Development Tutorial For Beginners In Hindi (With Notes) |
-| [Kotlin Course](https://youtu.be/F9UC9DY-vIU) | Kotlin Course - Tutorial for Beginners |
-| [Swift 5](https://youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW) | Swift 5 for Beginners (2022) |
-| [Swift 5](https://youtube.com/playlist?list=PL5PR3UyfTWvdlk-Qi-dPtJmjTj-2YIMMf) | Swift 5: Firebase Chat App (Real-Time - 2022) |
-| [Flutter](https://youtu.be/j-LOab_PzzU) | Master Flutter in Just 8 Hours, Full Course Hindi codepur |
+| [Tech World With Nana]( https://www.youtube.com/@TechWorldwithNana) | Various Devops Tutorials at one place |
+| [Hitesh Choudhary]( https://www.youtube.com/@HiteshChoudharydotcom) |Crisp Tutorials on devops |
+| [Train With Shubham]( https://www.youtube.com/@TrainWithShubham) |Good for project reference|
+| [Kunal Kushwaha](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) |First 7 videos are best to start with |
+| [Simplilearn](https://youtube.com/playlist?list=PLEiEAq2VkUUJS6zkGgXeWw9l32EwRoYdR) | A -good playlist to start with part 1 |
+| [Simplilearn](https://youtube.com/playlist?list=PLEiEAq2VkUUJZlITGalIZ1KMJhu33QnP7) | A good playlist to start part 2 |
 ---
 ## Websites for Android Dev
 | Website Links |
