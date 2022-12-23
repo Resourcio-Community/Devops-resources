@@ -34,9 +34,9 @@ Enjoy!
 ## Websites for Android Dev
 | Website Links |
 | ------------- |
-| https://kotlinlang.org/docs/home.html |
-| https://www.swift.org/documentation/ |
-| https://docs.flutter.dev/ |
+| (https://devopscube.com/)|
+| (https://www.javatpoint.com/devops)|
+| (https://www.guru99.com/devops-tutorial.html) |
 ---
 ## Join our Community
 | Social Media | Link |
