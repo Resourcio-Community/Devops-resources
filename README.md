@@ -21,7 +21,7 @@ Enjoy!
 | Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature Series (Fowler)) 1st Edition, Kindle Edition by Jez Humble | [Click Here](https://amzn.eu/d/6x7Rv98) |  |
 | UNICORN PROJECT Hardcover – 26 November 2019 by Gene Kim | [Click Here](https://amzn.eu/d/62c72lt) |  |
 ---
-## YouTube Channels for Android Dev
+## YouTube Channels for DevOps
 | Channel Name | Description |
 | ------------ | ----------- |
 | [Tech World With Nana]( https://www.youtube.com/@TechWorldwithNana) | Various Devops Tutorials at one place |
@@ -31,7 +31,7 @@ Enjoy!
 | [Simplilearn](https://youtube.com/playlist?list=PLEiEAq2VkUUJS6zkGgXeWw9l32EwRoYdR) | A -good playlist to start with part 1 |
 | [Simplilearn](https://youtube.com/playlist?list=PLEiEAq2VkUUJZlITGalIZ1KMJhu33QnP7) | A good playlist to start part 2 |
 ---
-## Websites for Android Dev
+## Websites for DevOps
 | Website Links |
 | ------------- |
 | https://devopscube.com/|
