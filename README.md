@@ -1,5 +1,5 @@
 # Devops-resources
-This is an awesome project about DevOps resources. ⚡
+This is an awesome repo about DevOps resources. ⚡
 
 Resources are added frequently! ⚡
 
