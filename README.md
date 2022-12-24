@@ -18,8 +18,8 @@ Enjoy!
 | Cloud Native DevOps with Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud, Second Edition (Grayscale Indian Edition) Paperback – 17 April 2022 by Justin Domingus | [Click Here](https://amzn.eu/d/0U1Qtse) | [Click Here](https://www.pdfdrive.com/download.pdf?id=187562166&h=899d6a6976affcc6de962d140350436b&u=cache&ext=pdf) |
 | The Phoenix Project: A Novel about It, Devops, and Helping Your Business Win  by Gene Kim | [Click Here](https://amzn.eu/d/4jf0EBw) | [Click Here](https://www.pdfdrive.com/download.pdf?id=177508710&h=4814cfff99c98dcaee1b7589bbda244b&u=cache&ext=pdf) |
 | Ansible for DevOps:Server and configuration management for humans Kindle Edition by Jeff Geerling | [Click Here](https://amzn.eu/d/gmzMDZo) | [Click Here](https://www.pdfdrive.com/download.pdf?id=54785552&h=be966de135833f97659cacf686b1bec6&u=cache&ext=pdf) |
-| Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature Series (Fowler)) 1st Edition, Kindle Edition by Jez Humble | [Click Here](https://amzn.eu/d/6x7Rv98) |  |
-| UNICORN PROJECT Hardcover – 26 November 2019 by Gene Kim | [Click Here](https://amzn.eu/d/62c72lt) |  |
+| Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature Series (Fowler)) 1st Edition, Kindle Edition by Jez Humble | [Click Here](https://amzn.eu/d/6x7Rv98) | Not Available |
+| UNICORN PROJECT Hardcover – 26 November 2019 by Gene Kim | [Click Here](https://amzn.eu/d/62c72lt) | Not Available |
 ---
 ## YouTube Channels for DevOps
 | Channel Name | Description |
