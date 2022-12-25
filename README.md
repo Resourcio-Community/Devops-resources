@@ -5,6 +5,10 @@ Resources are added frequently! ⚡
 
 Enjoy!
 ---
+## Contributing:cupid:
+To add, remove or change things on the list:
+[please submit a pull request to the GitHub repository](https://github.com/Resourcio-Community/Devops-resources)
+
 ## Table of Contents
 - [Books for DevOps](#books-for-DevOps):blue_book:
 - [YouTube Channels for DevOps](#youtube-channels-for-DevOps):incoming_envelope:
