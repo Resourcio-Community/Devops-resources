@@ -8,11 +8,18 @@ Enjoy!
 ## Contributing:cupid:
 To add, remove or change things on the list:
 [please submit a pull request to the GitHub repository](https://github.com/Resourcio-Community/Devops-resources)
+## This is a step by step guide on how to become a DevOps engineer, with links to relevant learning resources.
 
+![DevOps roadmap](https://raw.githubusercontent.com/milanm/DevOps-Roadmap/master/devops%20tools.png)
+
+## Disclaimer
+
+> The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hype and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hype and trendy does not always mean best suited for the job.
+---
 ## Table of Contents
-- [Books for DevOps](#books-for-DevOps):blue_book:
-- [YouTube Channels for DevOps](#youtube-channels-for-DevOps):incoming_envelope:
-- [Websites for DevOps](#websites-for-DevOps):computer:
+- [Books for DevOps](#books-for-devops):blue_book:
+- [YouTube Channels for DevOps](#youtube-channels-for-devops):incoming_envelope:
+- [Websites for DevOps](#websites-for-devops):computer:
 - [Join our Community](#join-our-community):blush:
 ---
 ## Books for DevOps
